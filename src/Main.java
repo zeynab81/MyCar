@@ -8,7 +8,7 @@ public class Main {
 
         color car =new color();
         car.color="red";
-        car.lights= bright;
+        car.lights= "bright";
         car.seat="leather";
 
 
