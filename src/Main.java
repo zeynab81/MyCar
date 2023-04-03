@@ -6,5 +6,11 @@ public class Main {
         bmw.model="x6";
         bmw.power="7000cc";
 
+        color car =new color();
+        car.color="red";
+        car.lights= bright;
+        car.seat="leather";
+
+
     }
 }
